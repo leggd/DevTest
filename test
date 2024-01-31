@@ -1,1 +1,2 @@
-p
+print("Testing Github and VSC Integration")
+print("Is it working?")
